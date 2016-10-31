@@ -20,7 +20,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "pull-stream": "^3.4.3"
+    "pull-stream": "^3.5.0"
   },
   "devDependencies": {
     "dependency-check": "^2.5.3",
